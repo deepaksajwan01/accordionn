@@ -1,0 +1,25 @@
+.filter-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border: 1px dotted black;
+}
+
+.filter-container {
+  background: #1a2329;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #07090d;
+  border-radius: 3px;
+}
+
+.icon-wrap {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.active-filter {
+  background: #555e6b;
+}

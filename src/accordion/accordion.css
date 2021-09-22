@@ -1,0 +1,31 @@
+.accordion-wrap {
+  padding: 20px;
+  border: 1px dotted black;
+  cursor: pointer;
+}
+
+.level-1 {
+  background: #353d45;
+  padding: 10px;
+}
+
+.sublevel-1 {
+  background: #262e36;
+  padding: 20px;
+  color: #ffffff;
+}
+
+.subheader {
+  text-indent: 10px;
+}
+
+.subcontent {
+  padding: 18px 0px;
+  display: flex;
+  gap: 10px;
+}
+
+.subheader span {
+  color: #d1d9e5;
+  font-size: 14px;
+}
